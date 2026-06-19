@@ -1,0 +1,2 @@
+default_fqbn: esp8266:esp8266:d1
+default_port: COM4
