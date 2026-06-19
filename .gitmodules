@@ -1,3 +1,9 @@
 [submodule "기말 프로젝트/SmartCarPark"]
 	path = 기말 프로젝트/SmartCarPark
 	url = https://github.com/hy040504/IoTProject-SmartCarPark.git
+[submodule "블루투스 LE 스맡 조명제어/appinventor-mcp"]
+	path = 블루투스 LE 스맡 조명제어/appinventor-mcp
+	url = https://github.com/rhyumiranda/appinventor-mcp.git
+[submodule "블루투스 LE 침입자 감지 알림/appinventor-mcp"]
+	path = 블루투스 LE 침입자 감지 알림/appinventor-mcp
+	url = https://github.com/rhyumiranda/appinventor-mcp.git
